@@ -1,0 +1,13 @@
+{
+    "name": "vuln-node-sample",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "express": "4.16.4",
+      "request": "2.81.0",
+      "lodash": "4.17.11",
+      "js-yaml": "3.13.1",
+      "mime": "1.3.4"
+    }
+  }
+  
